@@ -2,4 +2,4 @@
 function functionName(){
 	alert("functionName");
 }
-displayFunctionName();
+functionName();
